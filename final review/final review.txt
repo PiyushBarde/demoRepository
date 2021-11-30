@@ -1,0 +1,28 @@
+1)what is sequence ?
+ans:- sequence is the statement in which it tells which command to be exuted next.
+
+2)what is  selection?
+ans :- selection is the statement in which alternate options given between which cpu decides according to the program exection..its like choosing betwen routes.
+
+3)what is iteration ?
+ans :- it is used to shorted the program by constructing conditions for one or more statements and repeating it until it get satisfied.
+
+4)why static is used in program?
+ans:-static is the global variable which is used to share the same variable or method of a given class.
+
+5)what is array?
+ans:-array is used to for systematical arrangement of the data or value of same data type depending upon the language.
+
+6)what is dictionary?
+ans:- ditionary allows us to insert, update & retrieve data using keys.while keys can be string type or other data type too.
+
+7)difference between array and dictionaries?
+ans:- array is used to for systematical arrangement of the data or value of same data type depending upon the language.
+key vawhere as dictionaries allows us to rewrite,update and assign values using keys. index can be string in dictionaries where as in function index is int type.
+
+8)what is function used for?
+ans:- function is used to reduced the length of the program by allowing us to call whenever we need in whole program.it avoids the repetation of the codes in program as well as it increases programs clarity.
+
+9)difference between for loop and while loop?
+ans:-  for loop is used when you know how many times the loop should run where as If you want the loop to break based on a condition except the number of times it runs you should use while loop.in for loop we know the
+	the number of loop to be run on other hand while loop runs till condition falls.
